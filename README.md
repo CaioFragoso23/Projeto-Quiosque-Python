@@ -1,4 +1,4 @@
-<h1> M5 - Kiosque </h1>
+<h1> Projeto Quiosque Python </h1>
 
 <h2> Como rodar os testes localmente </h2>
 
